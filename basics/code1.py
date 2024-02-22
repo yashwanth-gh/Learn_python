@@ -11,10 +11,10 @@
 # Functions, Modules, Classes
 # Advanced : Decorators, Generators, Iterators, MetaProgramming
 
-import math
-print("pi value : ",math.pi)
+#import math
+#print("pi value : ",math.pi)
+#yourName = 'yashwanth'
+#print("[:-2]",yourName[:-2])
 
-yourName = 'yashwanth'
-
-print("[:-2]",yourName[:-2])
+#internal working of python
 
